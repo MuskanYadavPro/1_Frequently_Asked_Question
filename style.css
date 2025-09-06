@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;;
 }
 
 .header {
@@ -16,6 +16,9 @@
 }
 .header h1{
     margin-bottom: 1rem;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 1.5;
 }
 
 .main {
@@ -40,7 +43,9 @@
     padding-left: 0;
     text-align: left;
 }
-
+.main section > h2{
+    font-weight: 600;
+}
 .main section > h2,
 .main section > p {
     margin-bottom: 2rem;
