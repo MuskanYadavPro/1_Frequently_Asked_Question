@@ -67,7 +67,7 @@
 .main li a {
     padding-left: 0;
     margin-left: 0;
-    text-decoration: underline;
+    text-decoration: none;
     display: inline;
 }
 
@@ -85,3 +85,4 @@ hr {
     text-align: center;
     padding: 1rem 0;
 }
+
