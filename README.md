@@ -31,6 +31,7 @@
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Feedback](#feedback)
 
 <!-- OVERVIEW -->
 
