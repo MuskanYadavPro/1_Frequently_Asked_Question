@@ -87,7 +87,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@yMuskanYadavPro](https://github.com/MuskanYadavPro/)
+- GitHub [@MuskanYadavPro](https://github.com/MuskanYadavPro/)
 
 ## Feedback
  - Suggestions or improvements welcome!
